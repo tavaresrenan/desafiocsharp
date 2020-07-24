@@ -1,0 +1,11 @@
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\Domain.dll
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\Service.dll
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\Domain.pdb
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\bin\Debug\Service.pdb
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Projetos\desafioCopastur\Solution\ConsoleApp\obj\Debug\ConsoleApp.pdb

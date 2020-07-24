@@ -1,0 +1,5 @@
+C:\Projetos\desafioCopastur\Solution\Domain\bin\Debug\Domain.dll
+C:\Projetos\desafioCopastur\Solution\Domain\bin\Debug\Domain.pdb
+C:\Projetos\desafioCopastur\Solution\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Projetos\desafioCopastur\Solution\Domain\obj\Debug\Domain.dll
+C:\Projetos\desafioCopastur\Solution\Domain\obj\Debug\Domain.pdb
